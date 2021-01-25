@@ -13,11 +13,7 @@
             ],
             "program": "${workspaceFolder}\\index.js",
             "env": {
-                "SERVICE_PORT": "8888",
-                "CUSTOMER_QUEUE_URL": "https://sqs.ap-south-1.amazonaws.com/142198642907/internet-orders-queue",
-                "AWS_ACCESS_KEY_ID": "AKIASCG5TDDNVVDAC2MR",
-                "AWS_SECRET_ACCESS_KEY": "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",
-                "AWS_REGION": "ap-south-1"
+                
             }
         }
     ]
